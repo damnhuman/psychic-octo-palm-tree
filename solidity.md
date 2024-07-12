@@ -6,6 +6,7 @@ Category: RWA Tokenization
 Smart Contract: GNYToken
 
 Function Analysis
+
 Function Name: transfer
 
 Block Explorer Link: https://etherscan.io/address/0x7e6027a6a84fc1f6db6782c523efe62c923e46ff#code
